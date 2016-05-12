@@ -1,2 +1,1 @@
-Git is a vserson control system.
-Git is free software.
+this my project in CASIA,add some layers and aggragate GoogleNet 
